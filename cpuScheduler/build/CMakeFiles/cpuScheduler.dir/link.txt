@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG CMakeFiles/cpuScheduler.dir/src/cpuScheduler.c.o CMakeFiles/cpuScheduler.dir/src/array/processQueueArray.c.o -o cpuScheduler 

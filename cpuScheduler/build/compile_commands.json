@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/build",
+  "command": "/usr/bin/cc  -I/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/inc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG -std=gnu17 -o CMakeFiles/cpuScheduler.dir/src/cpuScheduler.c.o -c /home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/src/cpuScheduler.c",
+  "file": "/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/src/cpuScheduler.c",
+  "output": "CMakeFiles/cpuScheduler.dir/src/cpuScheduler.c.o"
+},
+{
+  "directory": "/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/build",
+  "command": "/usr/bin/cc  -I/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/inc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG -std=gnu17 -o CMakeFiles/cpuScheduler.dir/src/array/processQueueArray.c.o -c /home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/src/array/processQueueArray.c",
+  "file": "/home/maxscharkopf/Documents/COMP362/L06/cpuScheduler/src/array/processQueueArray.c",
+  "output": "CMakeFiles/cpuScheduler.dir/src/array/processQueueArray.c.o"
+}
+]
